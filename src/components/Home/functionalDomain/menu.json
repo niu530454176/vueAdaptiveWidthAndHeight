@@ -1,0 +1,22 @@
+[
+  {
+    "title": "功能一",
+    "icon" : "icon-chanpin",
+    "link" : "#"
+  },
+  {
+    "title": "功能二",
+    "icon" : "icon-chanpin",
+    "link" : "#"
+  },
+  {
+    "title": "功能三",
+    "icon" : "icon-chanpin",
+    "link" : "#"
+  },
+  {
+    "title": "功能四",
+    "icon" : "icon-chanpin",
+    "link" : "#"
+  }
+]

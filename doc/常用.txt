@@ -1,0 +1,9 @@
+// 添加IconFont
+    import '@/assets/iconfont/iconfont.css';
+    <i class="iconfont icon-jiantou3"></i>
+
+// 快速生成 长度为length的数组从0开始
+let f = length => Array.from({length}).map((v,k)=>k);
+
+// 颜色分层
+*{ background-color: #f56e26 * 1.1; * { background-color: #f56e26 * 1.4; * { background-color: #f56e26 * 1.6; * { background-color: #f56e26 * 1.8; } } } }

@@ -1,0 +1,100 @@
+[
+  {
+    "title" : "掘金一号",
+    "menu" :
+      [
+        {
+          "name" : "持仓池",
+          "icon" : "#icon-ziyuan3",
+          "link" : "#"
+        },
+        {
+          "name" : "技术追踪",
+          "icon" : "#icon-ziyuan",
+          "link" : "#"
+        },
+        {
+          "name" : "一号策略",
+          "icon" : "#icon-ziyuan2",
+          "link" : "#"
+        },
+        {
+          "name" : "备选池",
+          "icon" : "#icon-ziyuan1",
+          "link" : "#"
+        }
+      ]
+  },
+  {
+    "title" : "掘金二号",
+    "menu" :
+    [
+      {
+        "name" : "持仓池",
+        "icon" : "#icon-ziyuan3",
+        "link" : "#"
+      },
+      {
+        "name" : "技术追踪",
+        "icon" : "#icon-ziyuan",
+        "link" : "#"
+      },
+      {
+        "name" : "一号策略",
+        "icon" : "#icon-ziyuan2",
+        "link" : "#"
+      },
+      {
+        "name" : "备选池",
+        "icon" : "#icon-ziyuan1",
+        "link" : "#"
+      }
+    ]
+  },
+  {
+    "title" : "掘金三号",
+    "menu" :
+    [
+      {
+        "name" : "投资组合",
+        "icon" : "#icon-ziyuan7",
+        "link" : "#"
+      },
+      {
+        "name" : "首席策略",
+        "icon" : "#icon-ziyuan8",
+        "link" : "#"
+      },
+      {
+        "name" : "行业精研",
+        "icon" : "#icon-ziyuan6",
+        "link" : "#"
+      },
+      {
+        "name" : "备选池",
+        "icon" : "#icon-ziyuan9",
+        "link" : "#"
+      },
+      {
+        "name" : "博盈策略",
+        "icon" : "#icon-ziyuan10",
+        "link" : "#"
+      },
+      {
+        "name" : "在线调研",
+        "icon" : "#icon-ziyuan4",
+        "link" : "#"
+      },
+      {
+        "name" : "视听中心",
+        "icon" : "#icon-ziyuan5",
+        "link" : "#"
+      },
+      {
+        "name" : "博星期刊",
+        "icon" : "#icon-ziyuan1",
+        "link" : "#"
+      }
+    ]
+  }
+]
